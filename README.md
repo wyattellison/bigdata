@@ -18,3 +18,5 @@ Now everything should be installed (for now...), so here's how to launch Jupyter
 4) drag and drop the Big Data folder into the terminal window from finder (the file path should appear)
 5) into terminal>> jupyter notebook
 6) option-c in the terminal window to shut down jupyter
+
+Have fun! -W
